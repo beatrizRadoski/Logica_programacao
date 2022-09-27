@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"gri",
+				"grid-column\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"alg",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"line",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"text",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"flex",
+				"flex-start\talign-items"
+			],
+			[
+				"f",
+				"flex-end\tjustify-content"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"style",
+				"list-style\tproperty"
+			],
+			[
+				"bord",
+				"border-style\tproperty"
+			],
+			[
+				"FONT",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"backgoun",
+				"background-image\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"grid-ro",
+				"grid-row-end\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"st",
+				"list-style\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"fel",
+				"flex-direction\tproperty"
+			],
+			[
+				"border-",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"U",
+				"url()\tbackground"
+			],
+			[
+				"backgrun",
+				"background-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"anim",
+				"animation-delay\tproperty"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"video",
+				"videoSobre"
+			],
+			[
+				"conteudo",
+				"conteudoPrincipal-cursos"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"BORDE",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"textd",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"sh",
+				"box-shadow\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"rad",
+				"radio-whatsapp"
+			],
+			[
+				"radio",
+				"radio-telefone"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"ingre",
+				"ingredientes"
+			],
+			[
+				"ten",
+				"tentativaMaxima"
+			],
+			[
+				"tenta",
+				"tentativaAtual"
+			],
+			[
+				"sen",
+				"senhaInformada"
+			],
+			[
+				"log",
+				"loginInformado"
+			],
+			[
+				"logi",
+				"loginCadastrado"
+			],
+			[
+				"te",
+				"tentativaAtual"
+			],
+			[
+				"ing",
+				"ingredientes"
+			],
+			[
+				"ingred",
+				"ingrediente"
+			],
+			[
+				"numero",
+				"numeroAleatorio"
+			],
+			[
+				"sorteia",
+				"sorteiaQuantidade"
+			],
+			[
+				"num",
+				"numeroAleatorio"
+			],
+			[
+				"nu",
+				"numeroAleatorio"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"to",
+				"totalFamiliares"
+			],
+			[
+				"tota",
+				"totalIdade"
+			],
+			[
+				"IDA",
+				"idadeMarta"
+			],
+			[
+				"ID",
+				"idadeJorge"
+			],
+			[
+				"IDADE",
+				"idadeBete"
+			],
+			[
+				"tentativa",
+				"tentativaAtual"
+			],
+			[
+				"tent",
+				"tentativaAtual"
+			],
+			[
+				"ex",
+				"excetoDois"
+			],
+			[
+				"n",
+				"numeroPensado"
+			],
+			[
+				"pes",
+				"pesoInformado"
+			],
+			[
+				"soma",
+				"somaDosImcs"
+			],
+			[
+				"peso",
+				"pesoAmigo"
+			],
+			[
+				"I",
+				"idadeLucas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"consumoDeAlcool"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/index.html",
+			"settings":
+			{
+				"buffer_size": 24475,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/responsivo.css",
+			"settings":
+			{
+				"buffer_size": 1583,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/populares.css",
+			"settings":
+			{
+				"buffer_size": 1073,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid"
+	],
+	"file_history":
+	[
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa17080.1853/populares.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa17080.5652/style.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa17080.4523/destaques.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/destaques.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Challenge Front-End/style.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Challenge Front-End/index.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/contato.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/style.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/index.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/populares.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/menu.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa12704.35150/fontawesome.all.min.js",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa12704.41128/normalize.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa12704.49179/style.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa12704.40943/reset.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa16672.22801/cabecalho.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa16672.22560/chamada.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa16672.22245/planos.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Flexbox/index_responsivo.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Flexbox/flexbox.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Flexbox/index.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Flexbox/style.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Rocketseat/nlw.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Rocketseat/index.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/Projeto_eventos.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/style-evento.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/eventos.html",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa16644.12771/style.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/style.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/style-home-evento.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/produtos.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/teste_programação.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/style-home.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/inder.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/adivinha_mais.html",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa25564.5265/style-home.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa23596.47035/style-home.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/index.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/produtos.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa30412.21828/reset.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa20500.6637/reset.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/HTML5 e CSS/reset.css2",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa6160.23748/reset.css",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa6160.33947/reset.css2",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa6648.4121/reset.css",
+		"/C/Users/beatr/Downloads/reset.css.zip",
+		"/C/Users/beatr/AppData/Local/Temp/Rar$DIa25796.3035/reset.css",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/imc_dois.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/ingrediente_yan.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/todos_os_numeros.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/todos_os_pares.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/programa.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/jogo_adivinha.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/estrelas.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/media_idades_familiares.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/tabuada.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/ano_copa.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/sera_que_posso_dirigir.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/futebol.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/calcula_consumo.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/IMC.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/mostra_idades2.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/O_problema_das_gerações.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/nossa_diferença_de_idade_e.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/primeiro_teste.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/Nossa diferença de idade é",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/fulgencio.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/prova.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/tio_ben.html",
+		"/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Lógica I/texto_puro.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" /",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/responsivo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1467,
+								1467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/beatr/OneDrive/Área de Trabalho/Curso de programação/Grid/populares.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "calcula_consumo.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
